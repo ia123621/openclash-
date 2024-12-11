@@ -14,8 +14,8 @@ DOMAIN,wg.ia123621.top:6125
 DOMAIN,dn.ia123621.top:6126
 DOMAIN,zh.ia123621.top:6123
 DOMAIN,nz.ia123621.top:6123
-DOMAIN,hinat.ia123621.nyc.mn
-DOMAIN,buyvm.ia123621.nyc.mn
+DOMAIN,hinat.ia123621.nyc.mn:24732
+DOMAIN,buyvm.ia123621.nyc.mn:22
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
