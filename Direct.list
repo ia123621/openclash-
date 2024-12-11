@@ -6,14 +6,14 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
-DOMAIN,ik.ia123621.top
-DOMAIN,op.ia123621.top
-DOMAIN,nas.ia123621.top
-DOMAIN,pve.ia123621.top
-DOMAIN,wg.ia123621.top
-DOMAIN,dn.ia123621.top
-DOMAIN,zh.ia123621.top
-DOMAIN,nz.ia123621.top
+DOMAIN,ik.ia123621.top:6123
+DOMAIN,op.ia123621.top:6123
+DOMAIN,nas.ia123621.top:6123
+DOMAIN,pve.ia123621.top:6123
+DOMAIN,wg.ia123621.top:6123
+DOMAIN,dn.ia123621.top:6123
+DOMAIN,zh.ia123621.top:6123
+DOMAIN,nz.ia123621.top:6123
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
