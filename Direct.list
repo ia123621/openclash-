@@ -16,6 +16,7 @@ DOMAIN-PORT,zh.ia123621.top:6123
 DOMAIN-PORT,nz.ia123621.top:6123
 DOMAIN-PORT,hinat.ia123621.nyc.mn:24722
 DOMAIN-PORT,buyvm.ia123621.nyc.mn:22
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
