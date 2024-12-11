@@ -1,11 +1,4 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
-# MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-
 DOMAIN,ik.ia123621.top:6123
 DOMAIN,op.ia123621.top:6123
 DOMAIN,nas.ia123621.top:6123
@@ -16,6 +9,11 @@ DOMAIN,zh.ia123621.top:6123
 DOMAIN,nz.ia123621.top:6123
 DOMAIN,hinat.ia123621.nyc.mn:24722
 DOMAIN,buyvm.ia123621.nyc.mn:22
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
