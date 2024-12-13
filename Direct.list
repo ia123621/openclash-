@@ -13,6 +13,7 @@ DST-PORT,6126
 DOMAIN,hinat.ia123621.nyc.mn
 DST-PORT,24722
 DOMAIN,buyvm.ia123621.nyc.mn
+DOMAIN,ng.ia123621.nyc.mn
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
