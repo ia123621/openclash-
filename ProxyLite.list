@@ -2,14 +2,9 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,91pron.com
-DOMAIN-SUFFIX,hlbdy19.com
-# DOMAIN-SUFFIX,166.run
-# DOMAIN-SUFFIX,hlbdy.me
+DOMAIN-SUFFIX,akile.io
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-# DOMAIN-KEYWORD,hlbdy9
-# DOMAIN-KEYWORD,hlbdy19
-# DOMAIN-KEYWORD,hlbdy
 # IP段匹配
 # IP-CIDR,142.171.133.131/32,no-resolve
 # IP-CIDR,103.115.43.2/32,no-resolve
