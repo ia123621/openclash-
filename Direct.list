@@ -10,7 +10,7 @@ DOMAIN,wg.ia123621.top
 DST-PORT,6125
 DOMAIN,dn.ia123621.top
 DST-PORT,6126
-# DOMAIN,hinat.ia123621.nyc.mn
+DOMAIN,hinat.ia123621.nyc.mn
 # DST-PORT,24722
 DOMAIN,buyvm.ia123621.nyc.mn
 DOMAIN,ng.ia123621.nyc.mn
