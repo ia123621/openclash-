@@ -3,8 +3,8 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,91pron.com
 DOMAIN-SUFFIX,akile.io
-DOMAIN-SUFFIX,chinaq.biz
-DOMAIN-SUFFIX,chinaq.tv
+DOMAIN-KEYWOR,chinaq.biz
+DOMAIN-KEYWOR,chinaq.tv
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 # IP段匹配
