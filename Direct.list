@@ -15,7 +15,7 @@ DOMAIN,buyvm.ia123621.nyc.mn
 DOMAIN,ng.ia123621.nyc.mn
 # MyList
 # 域名后缀匹配
-# DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
