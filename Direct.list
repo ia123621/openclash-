@@ -12,3 +12,7 @@ DOMAIN,dn.577755.xyz
 DOMAIN,hinat.ia123621.nyc.mn
 # DST-PORT,24722
 DOMAIN,buyvm.ia123621.nyc.mn
+# DOMAIN：匹配域名
+# DOMAIN-SUFFIX：通过域名后缀匹配
+# DOMAIN-KEYWORD：通过域名关键词匹配
+# DOMAIN-EXACT：完全匹配域名
