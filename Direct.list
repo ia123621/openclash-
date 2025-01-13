@@ -1,13 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN,ik.ia123621.top
-DOMAIN,op.ia123621.top
-DOMAIN,nas.ia123621.top
-DOMAIN,pve.ia123621.top
-DOMAIN,zh.ia123621.top
+DOMAIN,ik.577755.xyz
+DOMAIN,op.577755.xyz
+DOMAIN,nas.577755.xyz
+DOMAIN,pve.577755.xyz
+DOMAIN,zh.577755.xyz
 # DST-PORT,6123
-DOMAIN,wg.ia123621.top
+DOMAIN,wg.577755.xyz
 # DST-PORT,6125
-DOMAIN,dn.ia123621.top
+DOMAIN,dn.577755.xyz
 # DST-PORT,6126
 DOMAIN,hinat.ia123621.nyc.mn
 # DST-PORT,24722
