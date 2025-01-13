@@ -4,18 +4,18 @@ DOMAIN,op.ia123621.top
 DOMAIN,nas.ia123621.top
 DOMAIN,pve.ia123621.top
 DOMAIN,zh.ia123621.top
-DST-PORT,6123
+# DST-PORT,6123
 DOMAIN,wg.ia123621.top
-DST-PORT,6125
+# DST-PORT,6125
 DOMAIN,dn.ia123621.top
-DST-PORT,6126
+# DST-PORT,6126
 DOMAIN,hinat.ia123621.nyc.mn
 # DST-PORT,24722
 DOMAIN,buyvm.ia123621.nyc.mn
 DOMAIN,ng.ia123621.nyc.mn
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
+# DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
