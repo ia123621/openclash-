@@ -1,1 +1,1 @@
-SRC-IP,192.168.3.9/32,no-resolve
+IP-CIDR,192.168.3.9/32,no-resolve
