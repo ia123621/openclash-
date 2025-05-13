@@ -18,7 +18,6 @@ DOMAIN,rss.577755.xyz
 DOMAIN,hinat.ia123621.nyc.mn
 # DST-PORT,24722
 DOMAIN,buyvm.ia123621.nyc.mn
-DOMAIN,alice.ia123621.nyc.mn
 # DOMAIN: 匹配域名
 # DOMAIN-SUFFIX: 通过域名后缀匹配
 # DOMAIN-KEYWORD: 通过域名关键词匹配
